@@ -37,7 +37,7 @@ excerpt: これは抜粋です。
 
 *わたしの一日*
 
-[グーグル](URL)
+[グーグル](http://www.google.co.jp)
 
 ![代替テキスト](URL )
 
